@@ -3,10 +3,10 @@ Spring Batch is an open source framework for batch processing – execution of a
 
 Prerequisites
 We must have below :
-Maven 3 or later
-Eclipse 4.2 
-JDK 1.6 or higher version
-Spring Core 3.2.2.RELEASE  jar
-Spring OXM 3.2.2.RELEASE jar
-Spring JDBC 3.2.2.RELEASE jar
-Spring Batch 2.2.0.RELEASE jar
+Maven 3 or later, 
+Eclipse 4.2 ,
+JDK 1.6 or higher version ,
+Spring Core 3.2.2.RELEASE  jar , 
+Spring OXM 3.2.2.RELEASE jar, 
+Spring JDBC 3.2.2.RELEASE jar , 
+Spring Batch 2.2.0.RELEASE jar .
